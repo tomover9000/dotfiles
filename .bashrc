@@ -140,3 +140,8 @@ ex ()
   fi
 }
 
+alias dotfiles='/usr/bin/git --git-dir=/home/tomover9000/.dotfiles/ --work-tree=/home/tomover9000'
+alias dotfiles='/usr/bin/git --git-dir=/home/tomover9000/.dotfiles/ --work-tree=/home/tomover9000'
+alias dotfiles='/usr/bin/git --git-dir=/home/tomover9000/.dotfiles/ --work-tree=/home/tomover9000'
+alias dotfiles='/usr/bin/git --git-dir=/home/tomover9000/.dotfiles/ --work-tree=/home/tomover9000'
+alias dotfiles='/usr/bin/git --git-dir=/home/tomover9000/.dotfiles/ --work-tree=/home/tomover9000'
