@@ -69,7 +69,7 @@ ZSH_THEME="robbyrussell"
 plugins=(
     # other plugins...
     git
-    zsh-autosuggestions
+    #zsh-autosuggestions
     zsh-syntax-highlighting
     fzf-tab
     ssh
