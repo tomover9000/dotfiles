@@ -3,7 +3,7 @@ theme = Dracula
 keybind = global:cmd+grave_accent=toggle_quick_terminal
 keybind = global:cmd+shift+g=new_window
 # Send actual alt+left and alt+right instead of backword forward word navigation
-keybind = alt+left=text:\x1b[1;3D
-keybind = alt+right=text:\x1b[1;3C
+# keybind = alt+left=text:\x1b[1;3D
+# keybind = alt+right=text:\x1b[1;3C
 quick-terminal-position = bottom
 macos-option-as-alt = left
